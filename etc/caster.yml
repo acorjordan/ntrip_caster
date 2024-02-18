@@ -1,0 +1,10 @@
+caster:
+  host: ntrip.acorjordan.org
+  address: 0.0.0.0:2101
+  port: 2101
+  identifier: ACOR
+  operator: American Center of Research
+  nmea: 1
+  country: JOR
+  latitude: 31.951
+  longitude: 35.923

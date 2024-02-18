@@ -1,0 +1,22 @@
+- mount-point: acoramman
+  password: 123456
+  description:
+    identifier: ACORAMMAN
+    format: RTCM 3.2
+    nav-system: GPS+GLONASS+GALILEO+BEIDOU
+    country: JOR
+    latitude: 31.951
+    longitude: 35.923
+    nmea: 1
+    generator: Sparkfun X5
+- mount-point: pdtrapetra
+  password: 123456
+  description:
+    identifier: pdtrapetra
+    format: RTCM 3.2
+    nav-system: GPS+GLONASS+GALILEO+BEIDOU
+    country: JOR
+    latitude: 31.951
+    longitude: 35.923
+    nmea: 1
+    generator: Sparkfun X5
