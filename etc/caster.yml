@@ -8,3 +8,13 @@ caster:
   country: JOR
   latitude: 31.951
   longitude: 35.923
+configuration:
+  auth:
+  - type: file
+    options:
+      mount-points: mountpoints.yml
+      clients: clients.yml
+  api:
+    address: 0.0.0.0:8080
+    api-keys:
+      - 123456
